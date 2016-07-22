@@ -44,5 +44,7 @@
     "start": "node --harmony_destructuring ./backend/src/server.js"
   },
   "dependencies": {
+    "acorn": "^2.7.0",
+    "angular": "^1.5.7"
   }
 }
